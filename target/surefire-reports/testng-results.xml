@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="46940" started-at="2017-08-28T17:15:14Z" finished-at="2017-08-28T17:16:00Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="46940" started-at="2017-08-28T17:15:14Z" finished-at="2017-08-28T17:16:00Z">
+      <class name="com.testscript.LoginTest">
+        <test-method status="PASS" signature="appiumStartServer()[pri:0, instance:com.testscript.LoginTest@13c78c0b]" name="appiumStartServer" is-config="true" duration-ms="4646" started-at="2017-08-28T22:45:09Z" finished-at="2017-08-28T22:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumStartServer -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.testscript.LoginTest@13c78c0b]" name="launchApp" is-config="true" duration-ms="24564" started-at="2017-08-28T22:45:14Z" finished-at="2017-08-28T22:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.testscript.LoginTest@13c78c0b]" name="appLogin" duration-ms="19864" started-at="2017-08-28T22:45:38Z" finished-at="2017-08-28T22:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.testscript.LoginTest@13c78c0b]" name="closeDriver" is-config="true" duration-ms="2480" started-at="2017-08-28T22:45:58Z" finished-at="2017-08-28T22:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="stopAppiumServer()[pri:0, instance:com.testscript.LoginTest@13c78c0b]" name="stopAppiumServer" is-config="true" duration-ms="269" started-at="2017-08-28T22:46:00Z" finished-at="2017-08-28T22:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- com.testscript.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

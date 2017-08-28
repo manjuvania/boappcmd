@@ -1,0 +1,7 @@
+com\basefunctions\BaseClass.class
+com\pom\LoginPage.class
+com\basefunctions\MyNXGTestListner.class
+com\testscript\LoginTest.class
+com\basefunctions\MyResultPageWriter.class
+com\basefunctions\GenericLib.class
+com\basefunctions\MyExcelReports.class
